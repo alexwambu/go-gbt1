@@ -1,0 +1,3 @@
+module github.com/alexwambu/go-gbt
+
+go 1.22
