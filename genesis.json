@@ -1,0 +1,20 @@
+{
+  "config": {
+    "chainId": 999,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0,
+    "istanbulBlock": 0
+  },
+  "alloc": {
+    "0xYOUR_OPERATIONAL_WALLET_1E": {
+      "balance": "999000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "difficulty": "0x20000",
+  "gasLimit": "0x47b760"
+}
